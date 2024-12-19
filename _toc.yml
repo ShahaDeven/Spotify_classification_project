@@ -1,0 +1,12 @@
+format: jb-book
+root: content/index
+
+chapters:
+  - file: content/resume
+  - file: content/code_section
+    sections:
+      - file: content/notebooks/Spotify_project_copy
+      - file: content/notebooks/FastAPI
+      - file: content/notebooks/Streamlit
+      - file: content/code_files/data_profile_report_copy.html
+  - file: content/links

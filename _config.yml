@@ -1,0 +1,22 @@
+title: "Mood Classification of Song"
+author: "Deven Rahul Shah"
+logo: ""
+execute:
+  execute_notebooks: "off"
+
+myst_enable_extensions:
+  - linkify
+  - jupyter
+
+html:
+  output_folder: docs
+  baseurl: /Mood_classification_book/
+  use_repository_button: true
+
+repository:
+  url: https://github.com/ShahaDeven/Mood_classification_book
+  path_to_book: ./
+  branch: main
+
+
+
